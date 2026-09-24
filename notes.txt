@@ -1,1 +1,2 @@
 This is a sample text file for the assignment.
+This line was added locally to test Task 4.
